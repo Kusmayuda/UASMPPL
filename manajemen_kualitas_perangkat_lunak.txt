@@ -1,8 +1,5 @@
-
-
 Manajemen Kualitas Perangkat Lunak
 Merupakan bidang pengetahuan yang sulit untuk didefinisikan. ISO mendefinisikan kualitas sebagai “totalitas hubungan dari sebuah hubungan yang berhubungan dengan kemampuanya untuk kebutuhan kepuasan”. Para ahli lainnya mendefinisikan kualitas berdasarkan keselarasan terhadap kebutuhan dan kesesuaian untuk digunakan.
-
 
 Tujuan utama dari manajemen kualitasproyek adalah memastikan bahwa proyek akan memuaskan kebutuhan. Kualitas kenyamanannya dipandang sejajar dengan ruang lingkup, waktu dan proyek. Jika para Stakeholder tidak puas dengan kualitas manajemen proyek atau produk yang dihasilkan, tim proyek akan melakukan survei pada ruang lingkup, waktu dan biaya untuk memuaskan kebutuhan danharapan Stakeholder.
 
