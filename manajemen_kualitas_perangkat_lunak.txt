@@ -1,1 +1,33 @@
 
+
+Manajemen Kualitas Perangkat Lunak
+Merupakan bidang pengetahuan yang sulit untuk didefinisikan. ISO mendefinisikan kualitas sebagai “totalitas hubungan dari sebuah hubungan yang berhubungan dengan kemampuanya untuk kebutuhan kepuasan”. Para ahli lainnya mendefinisikan kualitas berdasarkan keselarasan terhadap kebutuhan dan kesesuaian untuk digunakan.
+
+
+Tujuan utama dari manajemen kualitasproyek adalah memastikan bahwa proyek akan memuaskan kebutuhan. Kualitas kenyamanannya dipandang sejajar dengan ruang lingkup, waktu dan proyek. Jika para Stakeholder tidak puas dengan kualitas manajemen proyek atau produk yang dihasilkan, tim proyek akan melakukan survei pada ruang lingkup, waktu dan biaya untuk memuaskan kebutuhan danharapan Stakeholder.
+
+Untuk meraih kepuasan Pemangku kepentingan, tim proyek harus mengembangkan hubungan kerja yang baik dengan seluruh Pemangku kepentingan dan memahami kebutuhan mereka baik yang bisnis maupun tertulis.
+
+
+Ada tiga aktivitas utama dari manajemen kualitas proyek:
+
+- Perencanaan kualitas (Quality Planning), mengidentifikasikan standar kualitas yang sesuai dengan disain proyek dan bagaimana memuaskannya.
+- Jaminan kualitas (Quality Assurance), evaluasi berkala terhadap keseluruhan performa proyek untuk memastikan proyek akan memuaskan standar kualitas yang relevan.
+- Pengendalian kualitas (Quality Control), memonitor hasil proyek tertentu untuk memastikan hasil tersebut sesuai dengan standar kualitas yang relevan serta mengidentifikasikan cara untuk meningkatkan kualitas total.
+
+Karakteristik dari perangkat lunak yang berkualitas (software berkualitas) adalah mampu untuk memenuhi kebutuhan dari pemakai, pengembang dan pemelihara perangkat lunak.
+
+
+Perangkat lunak disebut berkualitas jika:
+1.Bisa mengerjakan apa yang diinginkan oleh pemakainya
+2.Memakai sumber daya komputer secara benar dan efisien
+3.Mudah untuk mempelajari dan digunakan oleh pemakainya
+4. Mengembang perangkat lunak yang bisa mendesain, mengisi kode sumber, melakukan uji coba (testing) dan memasukkan (memelihara) sistem tanpa kesulitan yang berarti
+
+
+Faktor kualitas perangkat lunak dari Hewlett-Packard
+Fungsionalitas: diukur dengan fasilitas program dan kemampuan dari program
+Kegunaan: diukur dari faktor manusia yang memakai sistem (estetika, konsistensi dan dokumentasi)
+Reliabilitas: dievaluasi dengan mengukur kegagalan kegagalan (error), akurasi output, MTBF (mean time between failure) dan kemampuan mengatasi error
+Performa: diukur dari proses kecepatan, respons, pemakaian sumber daya dan efisiensi
+Supportability: dari gabungan extensibility, adaptability, dan serviceability (ketiganya lebih dikenal dengan istilah maintainability) beserta testability, kompatibilitas, konfigurabilitas, instalasi dan masalah
