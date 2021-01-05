@@ -1,12 +1,28 @@
+JSC merupakan Unit pengelola di bawah dinas komunikasi informatika dan statistik provinsi. JSC terdiri dari sepuluh pegawai negeri sipil dan kurang lebih sepuluh ribu tenaga ahli. Terdapat 6 indikator Smart City yang harus dicapai, yaitu :
+a. Smart Mobility,
+b. Smart People,
+c. Smart Economy,
+d. Smart Environtment,
+e. Smart Governance, dan
+f. Smart Living.
+
 ->Aplikasi apa saja yang dikembangkan oleh Jakarta Smart City
 1. Aplikasi Qlue 
 2. Integrasi cctv
 3. Info Harga Tanah
-4. Pasar Jaya
-5. Aplikasi Ambulance gratis
+4. Info harga pangan
+6. Pasar Jaya
+7. Aplikasi Ambulance gratis
+8. Program #KakiLimaJakarta yang merupakan kolaborasi dengan Indo Relawan, Zomato dan Go Food untuk pedagang KUMKMP.
+9. Akses info ketersediaan kamar kosong pada rumah sakit. 
+
+Aplikasi yang dikembangkan oleh JSC :
+1. Jakarta Kini (Jaki)
+2. Cepat Respon Masyarakat (CRM)
 
 ->Bagaimana cara mereka memastikan Perangkat Lunak yang mereka kembangkan akan digunakan oleh masyrakat maupun pemerintah? 
-1.
+Laporan yang diterima oleh masyarakat akan terlebih dahulu di cek informasinya dan melakukan sinkronisasi pada informasi tersebut, informasi yang berupa foto, deskripsi laporan dan lokasi akan dicocokkan dan jika tidak cocok maka SKPD aplikasi CRM akan dimasukkan pada menu laporan tidak jelas.
+Dalam memastikan perangkat lunak yang JSC kembangkan digunakan oleh pemerintah dan masyarakat, JSC pertama bekerja sama dengan pihak ketiga, yaitu pihak pengembang aplikasi Qlue yang memberikan penawaran seperti iming-imingan berhadiah yang dapat menarik perhatian masyarakat untuk menggunakan JSC.
 
 -> Tim Apa saja yang terdapat pada Jakarta Smart City 
 1. Development Team
