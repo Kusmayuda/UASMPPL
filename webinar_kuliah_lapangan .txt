@@ -1,1 +1,16 @@
+->Aplikasi apa saja yang dikembangkan oleh Jakarta Smart City
+1. Aplikasi Qlue 
+2. Integrasi cctv
+3. Info Harga Tanah
+4. Pasar Jaya
+5. Aplikasi Ambulance gratis
 
+->Bagaimana cara mereka memastikan Perangkat Lunak yang mereka kembangkan akan digunakan oleh masyrakat maupun pemerintah? 
+1.
+
+-> Tim Apa saja yang terdapat pada Jakarta Smart City 
+1. Development Team
+2. Data dan analytics team
+3. Communication Team
+4. Field and Operational Team
+5. Monitoring and Evaluation Team
